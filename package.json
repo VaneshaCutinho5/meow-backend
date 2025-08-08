@@ -1,0 +1,28 @@
+{
+  "name": "meow-backend",
+  "version": "1.0.0",
+  "description": "a backend project ",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VaneshaCutinho5/meow-backend.git"
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "meow"
+  ],
+  "author": "Vanesha R Cutinho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VaneshaCutinho5/meow-backend/issues"
+  },
+  "homepage": "https://github.com/VaneshaCutinho5/meow-backend#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
