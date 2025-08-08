@@ -24,5 +24,8 @@
   "homepage": "https://github.com/VaneshaCutinho5/meow-backend#readme",
   "devDependencies": {
     "nodemon": "^3.1.10"
+  },
+  "dependencies": {
+    "prettier": "^3.6.2"
   }
 }
